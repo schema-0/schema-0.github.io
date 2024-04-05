@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: The paper “Cross-texting prevention system using Korean chat corpus” won the Best Paper Award at HCLT 2020 :trophy:
+date: 2020-10-16 00:00:00-0000
 inline: false
 related_posts: false
 ---
