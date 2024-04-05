@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Dissertation
-description: 박사학위논문
+description: Introduction of my Ph.D. thesis.
 nav: true
 nav_order: 6
 ---
