@@ -8,8 +8,9 @@ nav_order: 6
 ---
 
 <h3> Author verification model based on Korean chat text and its application </h3>
-<p> Keywords : author verification, online text analysis, cross-texting, graph-based text analysis </p>
+<p><b>Keywords</b>: author verification, online text analysis, cross-texting, graph-based text analysis </p>
 
+<p><b>Abstract:</b></p>
    As the development of the Internet and IT technology, short-text based communication is so popular compared with voice based one.
    Chat-based communication enables rapid, short and massive exchange of message with many people, creates new social problems.
    ‘Cross-texting’ is one of them.
