@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: Thesis
-description: Materials for courses you taught. Replace this text with your description.
+title: Dissertation
+description: 박사학위논문
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h1> 한글 채팅 텍스트 기반의 저자 검증 모형과 그 응용 </h1>
+<p> `키워드 : 저자 검증, 채팅 텍스트, 크로스 텍스팅, 텍스트 그래프 임베딩` </p>
 
-Organize your courses by years, topics, or universities, however you like!
+온라인을 통한 비대면 채팅 기반 커뮤니케이션이 급격히 증가함에 따라, 전에 없던 새로운 사회적 문제들이 생겨나고 있다. 
+크로스 텍스팅(cross-texting)이 그 예이다. 사용자가 여러 개의 채팅방에 동시에 참여 중 실수로 상대방을 착각하여 메시지를 잘못 보내는 경우를 일컫는다. 
+한국어와 같이 높임법 체계가 발달한 언어에서는 특히 더 사회적으로 문제가 된다. 
+본 논문에서는 이러한 문제를 해결하기 위해, 한글 채팅 텍스트 기반의 명시적 특성 벡터 정의 및 그래프를 이용한 두 가지 저자 검증 모형을 제안하였다. 
+메신저 코퍼스를 활용하여 크로스 텍스팅 케이스를 생성하고, 모형의 성능을 평가한 결과 특성 벡터 모델은 95%, 그래프 기반 모델은 82%의 정확도로 크로스 텍스팅을 탐지할 수 있었다.
