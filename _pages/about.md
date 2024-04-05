@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student in <a href='http://pearl.cs.pusan.ac.kr/~wiki/doku.php'>ALgorithm & Data Engineering Lab.</a> and <a href='https://pusan.ac.kr/eng/Main.do'>Pusan National University</a>.
+subtitle: Ph.D. student at <a href='http://pearl.cs.pusan.ac.kr/~wiki/doku.php'>ALgorithm & Data Engineering Lab.</a> in <a href='https://pusan.ac.kr/eng/Main.do'>Pusan National University</a>.
 
 profile:
   align: right
