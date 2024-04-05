@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-11-29 12:17:00-0400
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Manuscript "Recognition Algorithm for Cross-Texting in Text Chat" has been accepted for the journal of Data & Knowledge Engineering. :relaxed:
