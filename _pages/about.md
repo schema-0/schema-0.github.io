@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Algorithm & Data Engineering Lab.</p>
-    <p>Dept. of Electrical and Computer Engineering</p>
+    <p>ALgorithm & Data Engineering Lab.</p>
     <p>Pusan National University</p>
 
 news: true # includes a list of news items
