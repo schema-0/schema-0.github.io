@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Dissertation
+title: Thesis
 description: Introduction of my Ph.D. thesis.
 nav: true
 nav_order: 6
