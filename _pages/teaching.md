@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Introduction to past or current lectures
+description: 
 nav: true
 nav_order: 6
 ---
