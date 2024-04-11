@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /thesis/
-title: Thesis
-description: Introduction of my Ph.D. thesis.
+permalink: /Dissertation/
+title: Dissertation
+description: Introduction of my Ph.D. Dissertation.
 nav: true
 nav_order: 5
 ---
