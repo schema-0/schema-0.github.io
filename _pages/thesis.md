@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 <h3> Author Verification Model for Cross-texting Detection in Korean Messenger Chat </h3>
+<p><b>URL</b>:<a href="https://dcollection.pusan.ac.kr/common/orgView/000000165787">https://dcollection.pusan.ac.kr/common/orgView/000000165787</a></p>
 <p><b>Keywords</b>: author verification, online text analysis, cross-texting, graph-based text analysis </p>
 
 <p><b>Abstract:</b></p>
