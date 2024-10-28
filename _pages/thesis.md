@@ -33,4 +33,4 @@ nav_order: 5
    To evaluate the detection performance of the model, cross-texting datasets with varying levels of difficulty were constructed by adjusting the types and lengths of cross-texting messages using real messenger corpora.
    Experimental results revealed that the first approach achieved up to 95% accuracy in detecting cross-texting with relatively small-dimensional feature values. 
    Furthermore, through the distribution of these feature values, it was confirmed that the proposed model effectively modeled the consistency of actual chat messages.
-   The second approach demonstrated stable performance compared to other models when the change in attitudes expressed in chat messages was minimal, achieving a maximum accuracy of 82% in cross-texting detection. </p>
+   The second approach demonstrated stable performance compared to other models when the change in attitudes expressed in chat messages was minimal, achieving a maximum accuracy of 82% in cross-texting detection.
